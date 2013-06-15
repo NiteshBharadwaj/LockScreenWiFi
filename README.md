@@ -14,5 +14,6 @@ Due to hard luck,if you have wifi and data both turned off at that point, no one
 Had to hard-reset my phone twice because of this bug!
 
 And so, I made this. Will definitely improve on other features and ability to toggle data as well at key gaurd screen
-just in case
+just in case. Feel free to contribute as this might be very helpful to many users in case you are bored-to-death guy like me
+
  
