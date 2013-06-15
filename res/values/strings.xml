@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LockScreenWiFi</string>
+    <string name="string1">
+        Instructions!</string>
+        <string name="string2">
+        1) Place the widget on either the homescreen or the lockscreen or both
+        </string>
+        <string name="string3">
+        2) Click on the widget to turn Wi-Fi on or off </string>
+        <string name="string4">
+        3) Forget about this instruction app</string>
+        <string name="string5">
+        Caution!</string>
+        <string name="string6">
+        Uninstalling this instruction app uninstalls the widget</string>
+        <string name="string7">
+        But, closing this app wouldn\'t affect</string>
+        <string name="string8">
+        Why still waiting! Go ahead and close this</string>
+        <string name="string9">
+        Utility Apps OpenSource</string>
+    <string name="menu_settings">Settings</string>
+    <string name="desc">Button to Switch WiFi on and off</string>
+    <string name="random">Utility Apps OpenSource</string>
+
+</resources>
